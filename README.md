@@ -1,0 +1,2 @@
+# ornekcalisma
+örnek çalışma
